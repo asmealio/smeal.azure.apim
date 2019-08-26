@@ -1,0 +1,2 @@
+# smeal.azure.apim
+Prod
